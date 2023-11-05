@@ -1,4 +1,4 @@
-# Automobile Price Prediction
+# Used Automobile Price Prediction
 
 ## Overview
 This project aims to predict automobile prices based on a dataset containing information about various automobile attributes. It involves data analysis, preprocessing, modeling, and interpretability techniques. The primary goal is to develop a regression model that accurately predicts the price of automobiles.
